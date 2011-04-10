@@ -1,0 +1,10 @@
+## Interface: 40000
+## Title: Filger
+## Notes: Filtert ein paar Dinge... :P
+## Author: Nils Ruesch
+## Version: 090411
+## RequiredDeps:
+## OptionalDeps: 
+
+settings.lua
+Filger.lua
