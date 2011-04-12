@@ -65,6 +65,20 @@ Filger_Spells = {
 				{ spellID = 5277, size = 48, scale = 1, filter = "BUFF", unitId = "target", caster="all"},
 				-- Unholy Frenzy
 				{ spellID = 49016, size = 48, scale = 1, filter = "BUFF", unitId = "target", caster="all"},
+				-- Icy Veins
+				{ spellID = 12472, size = 48, scale = 1, filter = "BUFF", unitId = "target", caster="all"},
+				-- Frenzy Regeneration
+				{ spellID = 22842, size = 48, scale = 1, filter = "BUFF", unitId = "target", caster="all"},
+				-- Anti-Magic Shell
+				{ spellID = 48707, size = 48, scale = 1, filter = "BUFF", unitId = "target", caster="all"},
+				-- Retaliation
+				{ spellID = 20240, size = 48, scale = 1, filter = "BUFF", unitId = "target", caster="all"},
+				-- Death Wish
+				{ spellID = 12292, size = 48, scale = 1, filter = "BUFF", unitId = "target", caster="all"},
+				-- Spell Reflection
+				{ spellID = 23920, size = 48, scale = 1, filter = "BUFF", unitId = "target", caster="all"},
+				-- Deadly Calm
+				{ spellID = 85730, size = 48, scale = 1, filter = "BUFF", unitId = "target", caster="all"},
 			},
 			{
 				Name = "FOCUS",
@@ -77,6 +91,8 @@ Filger_Spells = {
 				{ spellID = 49016, size = 48, scale = 1, filter = "BUFF", unitId = "focus", caster="all"},
 				-- Icebound Fortitude
 				{ spellID = 48792, size = 48, scale = 1, filter = "BUFF", unitId = "focus", caster="all"},
+				-- Anti-Magic Shell
+				{ spellID = 48707, size = 48, scale = 1, filter = "BUFF", unitId = "focus", caster="all"},
 			},
 		},
 
